@@ -1,0 +1,7 @@
+sagemaker
+scikit-learn
+pandas
+fsspec
+numpy 
+ipykernel
+s3fs
